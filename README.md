@@ -5,7 +5,9 @@ Simple Matlab script to calculation the spatial temporal dynamics of the CommunA
 Much appreciation to the MatLab script made available by Alan Jennings which made the video rendering process a lot less painful. 
 
 # Usage: 
-in Matlab, run calc.m script to produce the 3D visualization as seen in https://youtu.be/oe96Qn_JrWE
+in Matlab, run calc.m script to produce the 3D visualization as seen in
+[![https://youtu.be/oe96Qn_JrWE](https://img.youtube.com/vi/oe96Qn_JrWE/0.jpg)](https://www.youtube.com/watch?v=oe96Qn_JrWE)
+
 
 # Disclaimr: 
 
